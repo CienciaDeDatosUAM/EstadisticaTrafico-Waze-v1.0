@@ -1,0 +1,1 @@
+Este código ha sido optimizado para mejorar su rendimiento mediante el uso de un pool de procesos. El pool de procesos permite distribuir la carga de trabajo en múltiples procesos, aprovechando al máximo los recursos de la CPU y reduciendo significativamente el tiempo de ejecución en comparación con una implementación secuencial.
